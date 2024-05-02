@@ -29,7 +29,7 @@ UPDATE_CHNL = getenv("UPDATE_CHNL", "HAXKX")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "TOXIC_TANJJ")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_USERNAME = getenv("BOT_USERNAME", nero_babe_bot)
+BOT_USERNAME = getenv("BOT_USERNAME", None )
 
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
