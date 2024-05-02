@@ -58,18 +58,18 @@ STICKER = [
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 
 IMG = [
-"https://graph.org/file/eaa3a2602e43844a488a5.jpg",
-"https://graph.org/file/b129e98b6e5c4db81c15f.jpg",
-"https://graph.org/file/3ccb86d7d62e8ee0a2e8b.jpg",
-"https://graph.org/file/df11d8257613418142063.jpg",
-"https://graph.org/file/9e23720fedc47259b6195.jpg",
-"https://graph.org/file/826485f2d7db6f09db8ed.jpg",
-"https://graph.org/file/ff3ad786da825b5205691.jpg",
-"https://graph.org/file/52713c9fe9253ae668f13.jpg",
-"https://graph.org/file/8f8516c86677a8c91bfb1.jpg",
-"https://graph.org/file/6603c3740378d3f7187da.jpg",
-"https://graph.org/file/66cb6ec40eea5c4670118.jpg",
-"https://graph.org/file/2e3cf4327b169b981055e.jpg",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ7ORcOkqZkBh23HMQw4f44bvoSjwF4M78Oywc1gSNJfOqI8oZtUxNJUM&s=10",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMwlBxiHNZjjBWH1g3nDx7jRSJf5hZm6kmg&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAu1YGPDCfHThB9X1vXwjgEpg3VidBDsna6w&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi6TDxOZ3aTuracxrNcdaIafStrUUDpji2TA&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0RPw8ZfhqHvVD0mF3XDdefYKjtdersHGyA&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiGjM2hexeyYQED4GOW1T9e5YCZpe2gOrWIU2tuCx5ez6W6MYQ6MBeZs&s=10",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0dZvn4U1JA84tYdhmgJuKhEu-yMQa4b8BA&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6BtCTIFXkcs4V1B4Bz8z3i3UqXW3miFFkMQ&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRQFC1RmpZuoU9LuVzqqQ_CBvmPfzXp9zQpQ&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTqHhyDLqu307p94Yua7WZ_TCQ8_zFS2CYUQ&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm1TCsabStxwhN0tgrmDQV1ZWPovg5H2pIbw&usqp=CAU",
+"https://graph.org/file/f7f010e1ad4425ed866de.jpg",
 ]
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
